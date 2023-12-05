@@ -5,6 +5,14 @@
 
 ## This website has got a repository in the github and it has a unique name - challenge_guide_accessibility_ur
 
+## Table of Contents
+## Installation
+## Features
+## Credits
+## Review
+
+## Installation -N/A
+
 ## Features
 
 ### Horiseon website has got Search Engine Optimization, Online Reputation Management and Social Media Marketing
