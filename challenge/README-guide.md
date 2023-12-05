@@ -111,11 +111,10 @@ This challenge is assessed on the following criteria:
 
 ### Review
 
-You are required to submit the following for review:
+* The URL of the deployed application is challenge_guide_accessibility_ur
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository is challenge_guide_accessibility_ur. The repository is having a README file for your
+reference to get indepth insight of the project.
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
